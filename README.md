@@ -468,13 +468,6 @@ No environment variables required for basic deployment.
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-```
-MIT License — Use responsibly. Stay ethical. 🔐
-```
 
 ---
 
